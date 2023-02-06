@@ -42,16 +42,45 @@ card{
     margin-top: 120px;
 }
 
+.link-dark {
+    color: #000000!important;
+}
+
+.about{
+    padding-bottom: 20px;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.about_us{
+    padding-bottom: 100px;
+}
+#neo{
+    padding-top: 40px;
+}
+#trin{
+    padding-top: 40px;
+}
+#morf{
+    padding-top: 60px;
+}
+.our_works{
+    padding-top: 80px;
+    background: #dedede;
+}
+.colons{
+    background: #dedede;
+}
+
+card{
+    margin-top: 120px;
+}
+
 .main_mix_menu{
     padding-top: 20px;
     padding-bottom: 40px
 ;
 }
-.why_shoose_us{
-    padding-top: 100px;
-    padding-bottom: 40px;
-}
-
 
 section{
     padding-bottom: 10PX;
@@ -75,9 +104,16 @@ section{
     padding-bottom: 20px;
 }
 
+.why_shoose_us{
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
 
-
-
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    padding-top: 40px;
+}
 
 
 .centered {
@@ -91,17 +127,99 @@ section{
 .rightimg{
     float: left;
 }
+
 .our_team{
     text-align: center;
-
+    padding-top: 200px;
+    padding-bottom: 100px;
+    /*background: rgb(2,0,36);*/
+    /*background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(66,66,222,0.8799894957983193) 47%, rgb(17, 100, 119) 88%);*/
 }
 .our_t{
     padding-bottom: 30px;
     color: #000000;
 }
 
+.our_skills{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.our_skill{
+    padding-bottom: 50px;
+}
+.skillbar {
+    background: #000000;
+    display: block;
+    height:30px;
+    margin-bottom:10px;
+    position: relative;
+    width: 60%;
+}
+.skillbar_1 {
+    background: #000000;
+    display: block;
+    height:30px;
+    margin-bottom:10px;
+    position: relative;
+    width: 50%;
+}
+.skillbar_2 {
+    background: #000000;
+    display: block;
+    height:30px;
+    margin-bottom:10px;
+    position: relative;
+    width: 30%;
+}
+.skillbar_3 {
+    background: #000000;
+    display: block;
+    height:30px;
+    margin-bottom:10px;
+    position: relative;
+    width:80%;
+}
+.skillbar_4 {
+    background: #000000;
+    display: block;
+    height:30px;
+    margin-bottom:10px;
+    position: relative;
+    width: 40%;
+}
+.skillbar_5 {
+    background: #000000;
+    display: block;
+    height:30px;
+    margin-bottom:10px;
+    position: relative;
+    width: 60%;
+}
+
+.skillbar-title {
+    color: #323232;
+    font-size: 12px;
+    left:15px;
+    position: relative;
+    top: 5px;
+}
+.skillbar-title h3{
+    font-size:14px;
+    color: #ffffff;
+}
+
+#brands{
+    padding-top:50px;
+}
 input{
     margin: auto;
+}
+
+.carusrel{
+    background: #cecece;
+}
+.thank_you{
+    background: #cecece;
 }
 
 .contact_us{
@@ -116,4 +234,12 @@ input{
 
 .down{
     padding-bottom: 30px;
+}
+footer {
+    padding-top: 150px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-bottom: 150px;
+    font-size: 20px;
 }
