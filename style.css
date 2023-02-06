@@ -1,15 +1,21 @@
 
 .prev{
-    background: rgb(72, 1, 17);
+    background: rgb(8, 47, 8);
 }
 
 .logo{
-    height: 400px;
-    width: 450px;
+    height: 200px;
+    width: 310px;
     position: absolute;
-    top: 30%;
-    left: 40%;
-    color: #c1c1e8;
+    top: 33%;
+    left: 15%;
+    color: rgba(255, 255, 255, 0.89);
+
+}
+.kosmos {
+    position: relative;
+    left: 900px;
+    top: 60px;
 }
 
 .menu{
@@ -22,7 +28,7 @@
 #block{
     writing-mode: vertical-rl;
     transform: rotateZ(360deg);
-    color: #d20000;
+    color: #ffffff;
     position: absolute;
     top: 40%;
     text-align: left;
@@ -237,7 +243,7 @@ input{
 }
 footer {
     padding-top: 150px;
-    background-color: black;
+    background-color: #132f13;
     text-align: center;
     color: white;
     padding-bottom: 150px;
