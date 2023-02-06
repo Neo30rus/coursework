@@ -162,15 +162,15 @@ section{
     height:30px;
     margin-bottom:10px;
     position: relative;
-    width: 60%;
+    width: 80%;
 }
 .skillbar_1 {
-    background: #254f25;
+    background: #675302;
     display: block;
     height:30px;
     margin-bottom:10px;
     position: relative;
-    width: 50%;
+    width: 35%;
 }
 .skillbar_2 {
     background: #254f25;
@@ -178,7 +178,7 @@ section{
     height:30px;
     margin-bottom:10px;
     position: relative;
-    width: 30%;
+    width: 60%;
 }
 .skillbar_3 {
     background: #254f25;
@@ -186,15 +186,15 @@ section{
     height:30px;
     margin-bottom:10px;
     position: relative;
-    width:80%;
+    width:90%;
 }
 .skillbar_4 {
-    background: #254f25;
+    background: #5d0707;
     display: block;
     height:30px;
     margin-bottom:10px;
     position: relative;
-    width: 40%;
+    width: 25%;
 }
 .skillbar_5 {
     background: #254f25;
