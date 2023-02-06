@@ -87,6 +87,11 @@ card{
     padding-bottom: 40px
 ;
 }
+.btn-light {
+    --bs-btn-bg: #dedede;
+    border: #323232;
+
+}
 
 section{
     padding-bottom: 10PX;
@@ -136,10 +141,9 @@ section{
 
 .our_team{
     text-align: center;
-    padding-top: 200px;
+    padding-top: 150px;
     padding-bottom: 100px;
-    /*background: rgb(2,0,36);*/
-    /*background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(66,66,222,0.8799894957983193) 47%, rgb(17, 100, 119) 88%);*/
+
 }
 .our_t{
     padding-bottom: 30px;
