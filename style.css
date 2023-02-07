@@ -224,17 +224,14 @@ input{
     margin: auto;
 }
 
-.thank_you{
-    background: #cecece;
-}
 
 .contact_us{
     text-align: center;
-    padding-top: 130px;
-    padding-bottom: 150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 .contact_u{
-    padding-bottom: 30px;
+    padding-bottom: 5px;
     color: #000000;
 }
 
@@ -242,11 +239,11 @@ input{
     padding-bottom: 30px;
 }
 footer {
-    padding-top: 150px;
+    padding-top: 30px;
     background-color: #132f13;
     text-align: center;
     color: white;
-    padding-bottom: 150px;
+    padding-bottom: 30px;
     font-size: 20px;
 }
 .card-body_3{
